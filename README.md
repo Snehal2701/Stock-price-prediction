@@ -1,4 +1,4 @@
-**# Stock-price-prediction**
+# Stock price prediction
 The project includes data collection from financial sources, preprocessing to clean and format the data, and the implementation of a predictive model. 
 The chosen model is trained on historical stock data, evaluated for performance metrics, and integrated into GitHub workflows for seamless updates.
 
